@@ -1,2 +1,2 @@
 # js-tutorials
-A code repo for javascripts learnt from chai aur code
+A code repo for javascript learnt from chai aur code
