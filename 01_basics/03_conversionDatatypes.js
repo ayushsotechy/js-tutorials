@@ -44,3 +44,10 @@ undefined=>false
 " "=>true
 NaN=>false
 */
+
+let someNumber=33;
+console.log(typeof someNumber);
+console.log(someNumber);
+let stringSomeNumber=String(someNumber);
+console.log(stringSomeNumber);
+console.log(typeof stringSomeNumber);
